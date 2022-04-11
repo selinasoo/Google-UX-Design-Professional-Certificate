@@ -6,8 +6,8 @@
 ## Courses and Certificates
 - [Foundations of User Experience (UX) Design](https://github.com/selinasoo/Google-UX-Design-Professional-Certificate/tree/main/1.%20Foundations%20of%20User%20Experience%20(UX)%20Design) <details>
     <summary>Show Certificate</summary><p>
-    
-    [<img src="https://github.com/selinasoo/Google-UX-Design-Professional-Certificate/blob/master/misc/certificates/foundations_of_user_experience_design.jpg" />](https://coursera.org/verify/72THZVFLPJYC)
+
+    [<img src="https://github.com/selinasoo/Google-UX-Design-Professional-Certificate/blob/main/misc/certificates/foundations_of_user_experience_design.jpg" />](https://coursera.org/verify/72THZVFLPJYC)
 
     </p></details>
 
